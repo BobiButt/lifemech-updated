@@ -1,0 +1,25 @@
+.main-page-data{
+font-size:20px ;
+
+
+}
+.prime-os-data{
+    font-size: 20px;
+}
+.main-logo h1{
+    font-family: "Comic Sans";
+    color: red;
+    font-weight: bolder;
+}
+.round-border1{
+    border-radius: 20px 0px 0px 20px;
+}
+.round-border2{
+    border-radius: 20px 0px 0px 20px;
+}
+.round-border3{
+    border-radius: 0px 20px 20px 0px;
+}
+.font-face{
+    font-family: MV Boli;
+}
